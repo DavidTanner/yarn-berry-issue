@@ -1,0 +1,11 @@
+{
+  "name": "yarn-berry-issue",
+  "packageManager": "yarn@3.2.0",
+  "scripts": {
+    "test": "yarn eslint ."
+  },
+  "dependencies": {
+    "@lifeomic/eslint-config-standards": "^2.1.1",
+    "eslint": "^8.14.0"
+  }
+}
